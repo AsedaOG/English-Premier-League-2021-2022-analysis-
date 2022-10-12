@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## English Premier League 2021/2022 Exploratory Analysis
 
-**This project is a descriptive analysis of the 2021/2022 nglish premier league in order to summarise and past information and identify general peformance that season**.
+**This project is a descriptive analysis of the 2021/2022 nglish premier league in order to summarise   the season and identify top peformances that season**.
 
 **Our data was obtained from kaggle and was verified to be open source. Available to us were  2 csv documents. The first file documented statistics from the match such as home goals, away goals. home shots, away shots etc. The second file tracked the ranking of  the teams as the league progressed. R was used for analysis and Tableau for visualization**
 
